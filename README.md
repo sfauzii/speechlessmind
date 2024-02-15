@@ -1,7 +1,7 @@
 # <p align="center">SpeechlessMind 👋</p>
 
 <p align="center">
-  <img src="assets/images/thumbnail.png" alt="Thumbnail SpeechlessMind">
+  <img src="/images/thumbnail.png" alt="Thumbnail SpeechlessMind">
 </p>
 
 ## 📑 Licence 
